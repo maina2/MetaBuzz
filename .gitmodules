@@ -1,0 +1,6 @@
+[submodule "MetaBuzz-api"]
+	path = MetaBuzz-api
+	url = https://github.com/maina2/MetaBuzz-api.git
+[submodule "MetaBuzz-client"]
+	path = MetaBuzz-client
+	url = https://github.com/maina2/MetaBuzz-client.git
