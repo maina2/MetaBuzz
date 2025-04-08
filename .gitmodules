@@ -4,6 +4,3 @@
 [submodule "MetaBuzz-client"]
 	path = MetaBuzz-client
 	url = https://github.com/maina2/MetaBuzz-client.git
-[submodule "Metabuzz-api"]
-	path = Metabuzz-api
-	url = https://github.com/maina2/MetaBuzz-api.git
